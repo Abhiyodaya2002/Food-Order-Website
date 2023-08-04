@@ -38,13 +38,8 @@ The app's design is modern and user-friendly, with an emphasis on simplicity and
 
 The Home screen offers a list of food products, as well as a search bar and settings for the number of items to be ordered. The Home screen displays the menu's items and allows the user to add them to their cart. The Cart page displays the user's cart contents and allows the user to place an order. The Order screen displays the user's order information.
 
-## Usage-
-
-
 
 ## Live-Demo-
 
 <a href="https://www.youtube.com/watch?v=XVDuomkMOgM">Live Demo </a>
 
-
-## Screenshot-
