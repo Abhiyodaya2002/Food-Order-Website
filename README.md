@@ -1,4 +1,4 @@
-# Food Delivery App using MERN Stack
+# Food Ordering Web App using MERN Stack
 
 This project aims to create a user-friendly and visually appealing food-ordering website. It allows users to view the available food items, their descriptions, and prices and place dummy orders for delivery. The website provides an intuitive interface and an efficient ordering process to enhance the user experience.
 
